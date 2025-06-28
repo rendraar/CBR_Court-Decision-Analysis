@@ -8,19 +8,33 @@ Sistem ini merupakan implementasi sederhana dari pendekatan **Case-Based Reasoni
 
 project/
 ├── data/
+
 │ ├── pdf/ # File PDF asli hasil scraping
+
 │ ├── raw/ # File teks hasil ekstraksi & cleaning
+
 │ ├── processed/ # File structured (CSV, XLSX)
+
 │ ├── results/ # Hasil prediksi
+
 │ └── eval/ # Query dan hasil evaluasi
+
 ├── logs/
+
 │ └── cleaning.log # Log pembersihan PDF
+
 ├── scripts/
+
 │ ├── main.ipynb
+
 │ ├── 03_retrieval.py
+
 │ ├── 04_retrieval.py
+
 │ ├── 05_evaluation.py
+
 ├── requirements.txt
+
 └── README.md
 
 
