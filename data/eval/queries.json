@@ -1,0 +1,22 @@
+[
+  {
+    "query": "penyimpanan senjata api ilegal",
+    "ground_truth": "case_001"
+  },
+  {
+    "query": "penggunaan pistol rakitan oleh warga sipil",
+    "ground_truth": "case_004"
+  },
+  {
+    "query": "kepemilikan senjata tanpa izin",
+    "ground_truth": "case_007"
+  },
+  {
+    "query": "senjata api ditemukan saat razia polisi",
+    "ground_truth": "case_010"
+  },
+  {
+    "query": "tersangka memiliki amunisi aktif",
+    "ground_truth": "case_014"
+  }
+]
